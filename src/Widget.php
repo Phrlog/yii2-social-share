@@ -78,6 +78,7 @@ class Widget extends \yii\base\Widget {
      */
     public $htmlOptions = [];
 
+
     /**
      * Supported social networks
      * @var array
